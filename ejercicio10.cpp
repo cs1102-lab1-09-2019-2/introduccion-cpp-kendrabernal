@@ -1,9 +1,10 @@
+#include <iostream>
 #include <string>
-using std::string;
+using namespace std;;
 
 int main() {
     int a = 5;
-    //Declarar una cadena
+    char b [18];//Declarar una cadena
     string b;
     //Inicializar la cadena b
     b = "Esto es una cadena";
