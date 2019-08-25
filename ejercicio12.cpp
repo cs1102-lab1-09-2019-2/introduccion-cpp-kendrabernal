@@ -1,5 +1,6 @@
-/*
- * Solamente incluir los header files que
+#include <stdio.h>
+#include <math.h>
+
 
 int main()
 {
