@@ -1,5 +1,7 @@
-
-bool esPalindromo(int n) {
+#include <iostream>
+#include <assert.h>
+#include <string>
+bool  esPalindromo ( int  n ) {
     bool palindromo = true;
     std::string s = std::to_string(n);
     int len = s.length();
