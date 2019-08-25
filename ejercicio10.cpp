@@ -17,6 +17,8 @@ int main() {
     cout<<numeros[0]<<"\n";
 
     float numero{5.16};
-    cout<<numero<<"\n"
+    cout<<numero<<"\n";
+    return 0;
+        
 
 }
