@@ -4,7 +4,7 @@ using namespace std;;
 
 int main() {
     int a = 5;
-    char b [18];//Declarar una cadena
+    string b [18];//Declarar una cadena
     string b;
     //Inicializar la cadena b
     b = "Esto es una cadena";
