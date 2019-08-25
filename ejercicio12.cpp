@@ -1,6 +1,5 @@
 /*
- * Solamente incluir los header files que se requiren para hacer funcionar el programa
- */
+ * Solamente incluir los header files que
 
 int main()
 {
